@@ -1,0 +1,49 @@
+body {
+
+
+background-color: #ded187;
+
+}
+
+
+
+
+.footer
+{
+background-color: #e9ceb0;
+height: 400px;
+}
+
+
+img .ustockpic {
+flex: content;
+justify-content: center;
+
+}
+
+
+#footer-row {
+
+padding: 32px;
+text-align: center;
+}
+
+
+a {
+
+
+color: rgb(210, 109, 1);
+}
+
+li {
+list-style: none;
+
+}
+
+.img-heading {
+
+color: white;
+font-weight: 400;
+position: absolute;
+padding: 44px;
+}
