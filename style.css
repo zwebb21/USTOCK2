@@ -45,5 +45,12 @@ list-style: none;
 color: white;
 font-weight: 400;
 position: absolute;
-padding: 44px;
+padding: 124px;
+}
+
+.carousel-item img {
+padding: 42px;
+border-radius: 52px;
+margin:auto;
+
 }
